@@ -7,6 +7,9 @@
   "description": "ionic tinder like cards",
   "main": "",
   "license": "MIT",
+  "dependencies": {
+    "collide": "1.0.0-beta.3"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
