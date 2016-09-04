@@ -1,0 +1,17 @@
+{
+  "name": "ionic-pucc-tinder",
+  "homepage": "https://github.com/drdpedroso/ionic-tinder-cards",
+  "authors": [
+    "Eduardo Pedroso <drdpedroso@gmail.com>"
+  ],
+  "description": "ionic tinder like cards",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
