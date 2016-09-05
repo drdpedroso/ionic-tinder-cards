@@ -246,7 +246,7 @@
   });
 
 
-  angular.module('ionic.contrib.ui.tinderCards', ['ionic'])
+  angular.module('tinder.cards', ['ionic'])
 
   .directive('tdCard', ['$timeout', function($timeout) {
     /**
